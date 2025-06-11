@@ -1,1 +1,1 @@
-https://github.com/username/sales-bonus/NatalliaPaliukhovich-Karastsialiova
+https://github.com/NatalliaPaliukhovich-Karastsialiova/sales-bonus
